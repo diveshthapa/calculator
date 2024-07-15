@@ -7,4 +7,4 @@ A basic calculator program build using JAVA language which can do following thin
 3. Multiply
 4. Division
 
-5. Feel free to modity this project accoridng to your requirements 
+5. Feel free to modity this project according to your requirements.
