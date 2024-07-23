@@ -1,6 +1,6 @@
 # calculator
 
-A basic calculator program build using JAVA language which can do following things :-
+A basic calculator program build using Java language which can do following things :-
 
 1. Addition
 2. Subtraction
