@@ -10,7 +10,9 @@ A basic calculator program build using JAVA language which can do following thin
 
 6. Feel free to modity this project according to your requirements.
 
-Output :
+<br>
+
+## Screenshot :
 Basic Calculator            
 :-------------------------:
 ![basiccalculator](https://raw.githubusercontent.com/diveshthapa/calculator/main/basic%20calculator%20560px.jpg)
